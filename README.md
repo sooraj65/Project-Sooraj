@@ -1,4 +1,4 @@
-SQL Task 1- Created 3 tables: studentinfo,courseinfo,enrollmentinfo.I inserted some sample data into all these tables and completed the exercise given. Attached are screenshots for these exercises.
+SQL Task 1- Created 3 tables: studentinfo,courseinfo,enrollmentinfo.inserted some sample data into all these tables and completed the exercise given. Attached are screenshots for these exercises.
 
 Task 2- I used Postgresql for this task and implemented a student database management system. I created a database and added a table named Student_table. I inserted 10 sample records and completed the exercises as mentioned, and screenshots are also attached.
 
